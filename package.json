@@ -7,7 +7,6 @@
     "start": "hello node",
     "create": "mkdir build",
     "delete": "rmdir build"
-    
   },
   "author": "",
   "license": "ISC",
